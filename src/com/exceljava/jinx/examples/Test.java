@@ -29,5 +29,7 @@ public class Test {
     public  static void subtract(){
     }
      
+    public  static void divide(){
+    } 
      
 }
