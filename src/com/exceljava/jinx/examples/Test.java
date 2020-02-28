@@ -32,4 +32,6 @@ public class Test {
     public  static void divide(){
     } 
      
+    public  static void equal(){
+    }  
 }
