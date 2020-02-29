@@ -40,4 +40,7 @@ public class Test {
     
     public  static void prime(){
     }
+     
+    public  static void notPrime(){
+    } 
 }
