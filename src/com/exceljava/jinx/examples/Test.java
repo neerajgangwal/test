@@ -33,5 +33,8 @@ public class Test {
     } 
      
     public  static void equal(){
+    } 
+     
+    public  static void notEqual(){
     }  
 }
