@@ -37,4 +37,7 @@ public class Test {
      
     public  static void notEqual(){
     }  
+    
+    public  static void prime(){
+    }
 }
